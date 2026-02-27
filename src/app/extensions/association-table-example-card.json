@@ -1,0 +1,12 @@
+{
+  "type": "crm-card",
+  "uid": "association_table_example",
+  "data": {
+    "title": "CRM data: Association Table Card",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "AssociationTableExtension.tsx"
+    },
+    "objectTypes": [{ "name": "p_classes" }]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "crm-card",
+  "uid": "association_table_for_contact",
+  "data": {
+    "title": "CRM data: Association Table for Contact",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "ContactAssociationTab.tsx"
+    },
+    "objectTypes": [{ "name": "contacts" }]
+  }
+}

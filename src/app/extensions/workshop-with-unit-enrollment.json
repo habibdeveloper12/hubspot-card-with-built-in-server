@@ -1,0 +1,12 @@
+{
+  "type": "crm-card",
+  "uid": "association_table_workshop",
+  "data": {
+    "title": "CRM data: Association Table for Workshop",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "WorkshopTab.tsx"
+    },
+    "objectTypes": [{ "name": "p_workshops" }]
+  }
+}

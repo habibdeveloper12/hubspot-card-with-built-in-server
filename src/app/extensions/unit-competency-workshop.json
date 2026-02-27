@@ -1,0 +1,12 @@
+{
+  "type": "crm-card",
+  "uid": "association_table_class_enrolments",
+  "data": {
+    "title": "CRM data: Association Table for Unit Competency Enrollments",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "UnitCompetencyTab.tsx"
+    },
+    "objectTypes": [{ "name": "p_unit_of_competency_enrolments" }]
+  }
+}

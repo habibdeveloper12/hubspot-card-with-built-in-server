@@ -1,0 +1,68 @@
+{
+  "appFunctions": {
+    "fetchCompanies": {
+      "file": "fetchCompanies.js",
+      "memory": 256,
+      "timeout": 10000,
+      "environment": {
+      
+      }
+    },
+    "searchContactByEmail": {
+      "file": "searchContactByEmail.js",
+      "memory": 256,
+      "timeout": 10000,
+      "environment": {
+      
+      }
+    },
+    "updateDeal": {
+      "file": "updateDeal.js",
+      "memory": 256,
+      "timeout": 10000,
+      "environment": {
+       
+      }
+    },
+    "fetchUnitEnrolmentsWithWorkshops": {
+      "file": "fetchUnitEnrolmentsWithWorkshops.js",
+      "memory": 256,
+      "timeout": 10000,
+      "environment": {
+     
+      }
+    },
+    "fetchContactEnrolments": {
+      "file": "fetchContactEnrolments.js",
+      "memory": 256,
+      "timeout": 10000,
+      "environment": {
+     
+      }
+    },
+    "fetchUnitWorkshops": {
+      "file": "fetchUnitWorkshops.js",
+      "memory": 256,
+      "timeout": 10000,
+      "environment": {
+   
+      }
+    },
+    "fetchWorkshopMainEnrolmentsWithUnits": {
+      "file": "fetchWorkshopMainEnrolmentsWithUnits.js",
+      "memory": 256,
+      "timeout": 10000,
+      "environment": {
+       
+      }
+    },
+    "fetchWorkshopEnrollments": {
+      "file": "fetchWorkshopEnrollments.js",
+      "memory": 256,
+      "timeout": 10000,
+      "environment": {
+  
+      }
+    }
+  }
+}

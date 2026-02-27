@@ -1,0 +1,12 @@
+{
+  "type": "crm-card",
+  "uid": "association_table_workshop_enrollments",
+  "data": {
+    "title": "CRM data: Association Table for Workshop Enrollments",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "WorkshopEnrollmentsUnitsTab.tsx"
+    },
+    "objectTypes": [{ "name": "p_workshop_enrolments" }]
+  }
+}

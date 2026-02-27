@@ -1,0 +1,18 @@
+{
+  "name": "ACI-custom-card",
+  "version": "0.1.0",
+  "description": "",
+  "license": "MIT",
+  "main": "AssociationTableExtension.tsx",
+  "scripts": {
+    "dev": "hs project dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HubSpot/ui-extensions-examples"
+  },
+  "dependencies": {
+    "@hubspot/ui-extensions": "latest",
+    "react": "^18.2.0"
+  }
+}
